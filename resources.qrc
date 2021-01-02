@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>resources/copy q.png</file>
+        <file>resources/download (1).jpg</file>
+        <file>resources/download (2).jpg</file>
+        <file>resources/download (2).png</file>
+        <file>resources/download (3).jpg</file>
+        <file>resources/download (4).jpg</file>
+        <file>resources/download (4).png</file>
+        <file>resources/download.jpg</file>
+        <file>resources/images (1).png</file>
+        <file>resources/images (2).png</file>
+        <file>resources/images.png</file>
+        <file>resources/redo.png</file>
+        <file>resources/arabicNum.png</file>
+        <file>resources/bold.png</file>
+        <file>resources/circle.png</file>
+        <file>resources/clearAll.png</file>
+        <file>resources/clearAll2.png</file>
+        <file>resources/color.png</file>
+        <file>resources/disc.png</file>
+        <file>resources/italic.png</file>
+        <file>resources/selectAll.png</file>
+        <file>resources/square.png</file>
+        <file>resources/underline.png</file>
+        <file>resources/Uppercaseroman.png</file>
+        <file>resources/Zoomin.png</file>
+        <file>resources/zoomout.jpg</file>
+    </qresource>
+</RCC>
